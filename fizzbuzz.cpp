@@ -59,3 +59,4 @@ const std::string& fizzbuzz(int n) {
 	return func[type](n);
 }
 
+
